@@ -11,7 +11,7 @@
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 ### Connect with me:
 
-[![website](./img/globe.png)](https://unlimitedvoid.com)
+[![website](./img/globe.svg)](https://unlimitedvoid.com)
 
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -21,11 +21,11 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp; -->
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/abstractprototype#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/abstractprototype#gh-dark-mode-only)
 
 ### Languages and Tools:
 
