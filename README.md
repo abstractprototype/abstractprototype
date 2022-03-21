@@ -1,6 +1,6 @@
 # Hi there, I'm Sam Chen 👋
 
-## I'm a Software Engineer, Student, and Developer!
+## I'm a Software Engineer, Student, and Frontend Developer!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 
