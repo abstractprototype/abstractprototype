@@ -67,18 +67,18 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only) -->
 
----
+<!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
----
+<!-- --- -->
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!-- START_SECTION:activity-->
 <!-- 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
