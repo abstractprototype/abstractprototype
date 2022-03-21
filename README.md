@@ -13,12 +13,14 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://unlimitedvoid.com)
-[![website](./img/linkedin-logo.svg)](https://www.linkedin.com/in/sam-chen-39909114a)
-[![website](./img/instagram_logo.svg)](https://instagram.com/abstractprototype
-<!-- [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-dark-mode-only) -->
-<!-- [![website](./img/instagram-light.svg)](https://instagram.com/abstractprototype#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/abstractprototype#gh-dark-mode-only) -->
+
+<!-- [![website](./img/linkedin-logo.svg)](https://www.linkedin.com/in/sam-chen-39909114a)
+[![website](./img/instagram_logo.svg)](https://instagram.com/abstractprototype -->
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/abstractprototype#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/abstractprototype#gh-dark-mode-only)
 
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -81,7 +83,7 @@
 
 <!-- <details> -->
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
-  
+
 <!-- START_SECTION:activity-->
 <!-- 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
 2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
