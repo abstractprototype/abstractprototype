@@ -13,9 +13,10 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://unlimitedvoid.com)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-dark-mode-only)
+[![website](./img/linkedin-logo.svg)](https://www.linkedin.com/in/sam-chen-39909114a)
 [![website](./img/instagram_logo.svg)](https://instagram.com/abstractprototype
+<!-- [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sam-chen-39909114a#gh-dark-mode-only) -->
 <!-- [![website](./img/instagram-light.svg)](https://instagram.com/abstractprototype#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/abstractprototype#gh-dark-mode-only) -->
 
