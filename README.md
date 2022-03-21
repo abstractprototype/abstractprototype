@@ -11,7 +11,7 @@
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 ### Connect with me:
 
-[![website](./img/globe.svg)](https://unlimitedvoid.com)
+[![website](./img/globe-light.svg)](https://unlimitedvoid.com)
 
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
