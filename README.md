@@ -6,7 +6,7 @@ I am a Full Stack Developer, but I like Frontend more tbh
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [samchenexe.com](http://samchenexe.com)
 * ✉️  You can contact me at [samchenwork13251@gmail.com](mailto:samchenwork13251@gmail.com)
-* 🧠  I'm learning Docker and AWS!
+* 🧠  I love using Docker and AWS!
 
 ### Skills
 
